@@ -7,7 +7,7 @@
     ·
     <a href="mailto:andi.prayogi30@gmail.com">Email</a>
     ·
-    <a href="linkedin.com/in/andi-prayogi-2a8a11157">LinkedIn</a>
+    <a href="https://linkedin.com/in/andi-prayogi-2a8a11157">LinkedIn</a>
 </p>
 <p align="center">
   <h4 align="center">Software Engineering from Medan, Indonesia</h4>
